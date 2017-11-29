@@ -1,0 +1,1 @@
+save the working dictionary by using stash
